@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkgit_message"]=self["webpackChunkgit_message"]||[]).push([[443],{1531:function(s,t,e){e.r(t),e.d(t,{default:function(){return r}});var n=function(){var s=this;s._self._c;return s._m(0)},u=[function(){var s=this,t=s._self._c;return t("div",{staticClass:"about"},[t("h1",[s._v("This is an about page")])])}],a=e(1001),i={},l=(0,a.Z)(i,n,u,!1,null,null,null),r=l.exports}}]);
+//# sourceMappingURL=about.21ce2a83.js.map
